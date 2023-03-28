@@ -1,2 +1,0 @@
-# ysyStudyGitHubProject
-study
